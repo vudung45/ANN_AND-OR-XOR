@@ -2,7 +2,7 @@
 
 Application: Artificial Neural Network for AND OR XOR logic problem
 
-Implementation: ANN algorithm, DEAP python.
+Implementation: ANN (Artificial Neural Network) algorithm, DEAP python.
 
 To learn more about Aritificial Neural Network : <a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Click here ( Wikipedia ) </a>
 
