@@ -17,6 +17,7 @@ Sample result:
 
 To test these weights:
 	+ Use this function: getNeuralOutput([sample weights], [inputs]), where inputs is a list [x1,x2] (x1,x2 ∈ [0,1]). Sample weights can be one of the result up there.
+	
 	+ You can generate your own sample weight by running the solution file
 
 
