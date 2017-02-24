@@ -52,7 +52,7 @@ Truth Values:
 [0, 0] : 3.22881187481e-30
 
 
-
+$/newline$
 (Prob 3)XOR logic weights: 
 
 Truth Values:
