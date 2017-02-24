@@ -1,6 +1,7 @@
 @Author : David Vu
 
 Application: Artificial Neural Network for AND OR XOR logic problem
+Implementation: ANN algorithm, DEAP python.
 
 Sample result:
 > AND logic weights:  [-0.18959636984322603, 7.897154478201223, 12.167765493884689,
