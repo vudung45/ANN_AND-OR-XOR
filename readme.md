@@ -1,6 +1,7 @@
 @Author : David Vu
 
 Application: Artificial Neural Network for AND OR XOR logic problem
+
 Implementation: ANN algorithm, DEAP python.
 
 Sample result:
