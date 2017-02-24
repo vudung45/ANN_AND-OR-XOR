@@ -23,6 +23,7 @@ To test these weights:
 
 Here are the tests for those sample weights listed up there
 
+<textarea>
 ---Testing weights---
 
 AND logic weights: 
@@ -51,8 +52,6 @@ Truth Values:
 
 [0, 0] : 3.22881187481e-30
 
-
-/newline
 (Prob 3)XOR logic weights: 
 
 Truth Values:
@@ -65,7 +64,6 @@ Truth Values:
 
 [0, 0] : 8.85098512361e-19
 
-
-
+</textarea>
 
 
