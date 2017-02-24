@@ -4,6 +4,8 @@ Application: Artificial Neural Network for AND OR XOR logic problem
 
 Implementation: ANN algorithm, DEAP python.
 
+To learn more about Aritificial Neural Network : <a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Click here ( Wikipedia ) </a>
+
 Sample result:
 > AND logic weights:  [-0.18959636984322603, 7.897154478201223, 12.167765493884689,
 > -14.751600422231201, -9.707496739356303, 14.421051249881726, -23.002494697989373,
