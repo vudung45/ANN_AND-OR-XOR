@@ -25,43 +25,42 @@ To test these weights:
 Here are the tests for those sample weights listed up there:
 		
 
-	> ---Testing weights---
-	>
-	> AND logic weights: 
+	---Testing weights---
 
-	> Truth Values:
+	AND logic weights: 
 
-	> [0, 1] : 7.56111153543e-51
+	Truth Values:
 
-	> [1, 0] : 1.03801804673e-52
+	[0, 1] : 7.56111153543e-51
 
-	> [1, 1] : 1.0
+	[1, 0] : 1.03801804673e-52
 
-	> [0, 0] : 7.52556745288e-51
-	>
-	> 
-	> OR logic weights: 
+	[1, 1] : 1.0
 
-	> Truth Values:
+	[0, 0] : 7.52556745288e-51
 
-	> [0, 1] : 1.0
 
-	> [1, 0] : 1.0
+	OR logic weights: 
 
-	> [1, 1] : 1.0
+	Truth Values:
 
-	> [0, 0] : 3.22881187481e-30
-	>
-	> 
+	[0, 1] : 1.0
 
-	> (Prob 3)XOR logic weights: 
+	[1, 0] : 1.0
 
-	> Truth Values:
+	[1, 1] : 1.0
 
-	> [0, 1] : 1.0
+	[0, 0] : 3.22881187481e-30
 
-	> [1, 0] : 1.0
 
-	> [1, 1] : 8.85107398114e-19
+	(Prob 3)XOR logic weights: 
 
-	> [0, 0] : 8.85098512361e-19
+	Truth Values:
+
+	[0, 1] : 1.0
+
+	[1, 0] : 1.0
+
+	[1, 1] : 8.85107398114e-19
+
+	[0, 0] : 8.85098512361e-19
