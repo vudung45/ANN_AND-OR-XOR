@@ -22,10 +22,10 @@ Sample result:
 To test these weights:
 
 	+ Use this function: 
-	getNeuralOutput([sample weights], [inputs]), 
+		getNeuralOutput([sample weights], [inputs]), 
 	whereas:
-		+ [inputs] is the tuple [x1,x2] (x1,x2 ∈ [0,1]). 
-	        + [sample weights] is one of the sample result up there.
+		[inputs] is the tuple [x1,x2] (x1,x2 ∈ [0,1]). 
+	        [sample weights] is one of the sample result up there.
 		
 	+ You can generate your own [sample weights] by running the solution file
 
