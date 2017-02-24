@@ -15,7 +15,6 @@ Sample result:
 > -3.8436072240865107, 2.7745265757906408, -20.391967987532986, 46.01746484217755, 
 > -41.56858800548493, 79.49211277345418]
 
-
 To test these weights:
 	+ Use this function: getNeuralOutput([sample weights], [inputs]), where inputs is a list [x1,x2] (x1,x2 ∈ [0,1]). Sample weights can be one of the result up there.
 	+ You can generate your own sample weight by running the solution file
@@ -25,7 +24,7 @@ Here are the tests for those sample weights listed up there
 
 > ---Testing weights---
 > AND logic weights: 
->
+> 
 > Truth Values:
 > [0, 1] : 7.56111153543e-51
 > [1, 0] : 1.03801804673e-52
@@ -42,11 +41,6 @@ Here are the tests for those sample weights listed up there
 > (Prob 3)XOR logic weights: 
 > Truth Values:
 > [0, 1] : 1.0
-
 > [1, 0] : 1.0
-
 > [1, 1] : 8.85107398114e-19
-
 > [0, 0] : 8.85098512361e-19
-
-
