@@ -27,16 +27,26 @@ Here are the tests for those sample weights listed up there
 > 
 > Truth Values:
 > [0, 1] : 7.56111153543e-51
+
 > [1, 0] : 1.03801804673e-52
+
 > [1, 1] : 1.0
+
 > [0, 0] : 7.52556745288e-51
+
 > 
 > OR logic weights: 
+
 > Truth Values:
+
 > [0, 1] : 1.0
+
 > [1, 0] : 1.0
+
 > [1, 1] : 1.0
+
 > [0, 0] : 3.22881187481e-30
+
 > 
 > (Prob 3)XOR logic weights: 
 > Truth Values:
