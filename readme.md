@@ -21,9 +21,13 @@ Sample result:
 
 To test these weights:
 
-	+ Use this function: getNeuralOutput([sample weights], [inputs]), where inputs is a list [x1,x2] (x1,x2 ∈ [0,1]). Sample weights can be one of the result up there.
-	
-	+ You can generate your own sample weight by running the solution file
+	+ Use this function: 
+	getNeuralOutput([sample weights], [inputs]), 
+	whereas:
+		+ [inputs] is the tuple [x1,x2] (x1,x2 ∈ [0,1]). 
+	        + [sample weights] is one of the sample result up there.
+		
+	+ You can generate your own [sample weights] by running the solution file
 
 
 Here are the tests for those sample weights listed up there:
